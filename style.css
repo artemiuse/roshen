@@ -1,0 +1,292 @@
+body {
+    width: 1607px;
+    margin: 0;
+	padding: 0;
+  
+}
+.header {
+    height: 71px;
+    background-color: #8C0A0D;
+}
+.logo{
+position: absolute;
+width: 100px;
+height: 40px;
+margin: 15px;
+}
+.link head{
+padding: 0;
+position: absolute;
+margin-top: 40px;
+list-style: none;
+}
+.flag{
+    position: absolute;
+    height: 18px;
+    width: 30px;
+    margin-top: 35px;
+    margin-left: 1150px;
+}
+.menu{
+height: 337px;
+
+
+margin: 130px;
+width: 600;
+}
+.link a {
+    color: #ffe394;
+}
+.link {
+    padding: 0;
+    margin-top: 38px;
+    position: absolute;
+    list-style: none;
+}
+.link li {
+    font-size: 14px;
+    display: inline;
+    text-transform: uppercase;
+}
+.link li:nth-child(1) {
+    margin-right: 30px;
+    margin-left: 369px;
+}
+.link li:nth-child(2) {
+    margin-right: 32px;
+}
+.link li:nth-child(3){
+    margin-right: 34px;
+}
+.link li:nth-child(4) {
+    margin-right: 31px;
+}
+.link li:nth-child(5) {
+    margin-right: 32px;
+}
+.link li:nth-child(6) {
+    margin-right: 130px;
+}
+.link li:nth-child(7) {
+    margin-right: 93px;
+}
+.kartinka{
+    position: absolute;
+    width: 1170px;
+    height: 335px;
+    margin: 25px 65px 30px 65px;
+    background: url(https://raw.githubusercontent.com/KsuBuk/roshen/main/img/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0.png);
+    outline: 4px solid #35040c
+}
+.title {
+	position: absolute;
+	width: 455px;
+	height: 54px;
+	top: 30px;
+	left: 360px;
+}
+.left {
+	position: absolute;
+	margin-top: 155px;
+	margin-left: 28px;
+}
+
+.right {
+	position: absolute;
+	margin: 152px 28px 128px 1087px;
+}
+.title{
+    position: absolute;
+    width: 455px;
+	height: 54px;
+	top: 30px;
+	left: 360px;
+}
+.title>span {
+    font-size: 60px;
+    color: #35040c;;
+}
+.button {
+    position: absolute;
+    width: 180px;
+    height: 60px;
+    border-radius: 10%;
+    top: 100px;
+  background: #f6cc79;
+    left: 460px;
+    box-shadow:  0 5px 0  rgba(190, 100, 10, 1);;
+}
+.button>a {
+	position: absolute;
+	font-size: 22px;
+	margin-left: auto;
+	margin-right: auto;
+	font-weight: bold;
+	padding: 11px 18px 8px 20px;
+	text-decoration: none;
+	color: #030303;	
+}
+.elyps {
+    position: absolute;
+    left: 550px;
+   margin-top: 310px;
+
+}
+.heading1 {
+    width: 269px;
+    height: 64px;
+    margin-top: 390px;
+    margin-left: 65px;
+    position: absolute;
+}
+.heading1 span {
+    font-size: 18px;
+    text-align: right;
+    font-family: MinionPro-Bold,AdobeInvisFont,MyriadPro-Regular;
+    font-weight: bold;
+    color: #060606;
+}
+.heading2 {
+    width: 276px;
+    height: 65px;
+    margin-top: 390px;
+    margin-left: 363px;
+    position: absolute;
+}
+.heading2 span {
+    font-size: 18px;
+    text-align: right;
+    font-family: MinionPro-Bold,AdobeInvisFont,MyriadPro-Regular;
+    font-weight: bold;
+    color: #030303;
+}
+.heading3 {
+    width: 233px;
+    height: 89px;
+    margin-top: 390px;
+    margin-left: 662px;
+    position: absolute;
+}
+.heading3 span {
+    font-size: 18px;
+    text-align: right;
+    font-family: MinionPro-Bold,AdobeInvisFont,MyriadPro-Regular;
+    font-weight: bold;
+    color: #050505;
+}
+.heading4 {
+    width: 249px;
+    height: 63px;
+    margin-top: 390px;
+    margin-left: 957px;
+    position: absolute;
+}
+.heading4 span {
+    font-size: 18px;
+    text-align: right;
+    font-family: MinionPro-Bold,AdobeInvisFont,MyriadPro-Regular;
+    font-weight: bold;
+    color: #060606;
+
+}
+.text1 {
+position: absolute;
+width: 260px;
+height: 135px;
+margin-left: 65px;
+margin-top: 500px;
+font-size: 15px;
+}
+.text2 {
+    position: absolute;
+    width: 276px;
+    height: 70px;
+    margin-left: 363px;
+    margin-top: 500px;
+}
+.text3 {
+    position: absolute;
+    width: 232px;
+    height: 100px;
+    margin-left: 662px;
+    margin-top: 500px;
+}
+.text4 {
+    position: absolute;
+    height: 90px;
+    margin-left: 957px;
+    margin-top: 500px;
+}
+.footer {
+    height: 71px;
+    background: #8C0A0D;
+  margin-top: px;
+}
+.footer a {
+    text-decoration: none;
+	color: #F8B168;
+	margin-top: 36px;
+	margin-left: 67px;
+	font-size: 14px;
+	position: absolute;
+}
+.adress a {
+    min-width: 148px;
+    height: 38px;
+    font-size: 14px;
+    position: absolute;
+    left: 361px;
+    margin-top: 21px;
+}
+.adress a {
+    text-decoration: none;
+    color: #F8C669;
+}
+.contact a {
+    height: 37px;
+    min-width: : 144px;
+    font-size: 14px;
+    position: absolute;
+    margin-top: 21px;
+    left: 658px;
+    text-align: right;
+}
+.contact a {
+    text-decoration: none;
+    color: #F4AB64;
+}
+.email a {
+    min-width: 138px;
+    height: 36px;
+    font-size: 14px;
+    position: absolute;
+    margin-top: 13px;
+    left: 891px;
+    top: 786px;
+}
+.email a {
+    text-decoration: none;
+    color: #F8B168;
+   margin-top: 25px;
+}
+.email span {
+    margin-left: 957px;
+    color: #F8B168;
+}
+.facebook a {
+    position: absolute;
+    left: 1095px;
+    margin-top: -6px;
+}
+.vk a {
+    position: absolute;
+    left: 1135px;
+    margin-top: -6px;
+}
+.fon {
+    height: 700px;
+  background: #f5e8c6;
+    opacity: .8;
+   margin-top: -130px;
+  }  
+
